@@ -7,17 +7,17 @@
 
 ### 分析对象
 
-*食物对象
-*蛇对象
-*游戏对象
+* 食物对象
+* 蛇对象
+* 游戏对象
 
 ### 创建食物对象
-*Food
-  *属性
-    *x
-    *y
-    *width
-    *height
-    *color
-  *方法
-    *render   随机创建一个食物对象，并输出到map上
+* Food
+  * 属性
+    * x
+    * y
+    * width
+    * height
+    * color
+  * 方法
+    * render   随机创建一个食物对象，并输出到map上
